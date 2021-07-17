@@ -1,0 +1,6 @@
+module Pods_DemoLoginFB_DemoLoginFBTests {
+  umbrella header "Pods-DemoLoginFB-DemoLoginFBTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
